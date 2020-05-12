@@ -1,3 +1,7 @@
+Open the project folder and Command prompt,  install reactJS by using command npm install.
+Make sure nodejs and mongodb community is installed in your system before installing reactJs.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
